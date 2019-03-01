@@ -1,2 +1,1 @@
-# PHPProject_CoffeeShop
 # phpProject
