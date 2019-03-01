@@ -1,0 +1,90 @@
+header
+{
+
+}
+
+footer
+{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+body
+{
+  background-image: url("frenchpress.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+}
+
+H1
+{
+  color: #8B4513;
+  text-align: center;
+  font-family: helvetica, fantasy;
+  font-size: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+
+H2
+{
+  color: #8B4513;
+  text-align: center;
+  font-family: helvetica, fantasy;
+  font-size: 30px;
+  font-weight: 100;
+  background-color: white;
+  opacity: 0.70;
+}
+
+.topnav
+{
+    background-color: white;
+    opacity: 0.70;
+    overflow: hidden;
+}
+
+.topnav a
+{
+  color: #8B4513;
+  font-family: helvetica, fantasy;
+  font-size: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  font-weight: 100;
+  text-decoration: none;
+  float: left;
+  text-align: center;
+}
+
+.topnav a:hover
+{
+  color: black;
+}
+
+img
+{
+    float:left;
+    height: 350px;
+    margin-right: 10px;
+}
+
+p
+{
+  color: #3F250B;
+  font-family: helvetica, fantasy;
+  font-size: 20px;
+  background-color: white;
+  opacity: 0.90;
+  max-width: 50ch;
+  text-align: justify;
+  margin-left: 0px;
+  overflow: auto;
+  display: block;
+}
