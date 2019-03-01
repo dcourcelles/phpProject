@@ -75,7 +75,7 @@
       var x = document.forms["updateForm"]["bagspurchased"].value;
         if (x == "" || isNaN(x))
           {
-          alert("Must entera valid amount for bags pruchased.");
+          alert("Must enter a valid amount for bags pruchased.");
           return false;
           }
       var y = document.forms["updateForm"]["datepurchased"].value;
