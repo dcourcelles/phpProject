@@ -2,7 +2,7 @@
 ?>
 
 <!DOCTYPE html>
-  <title>Praise The Sun Coffee</title>
+  <title>Praise The Coffee</title>
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
