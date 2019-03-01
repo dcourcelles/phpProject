@@ -2,7 +2,7 @@
   class coffee{
     private $server = "localhost";
     private $username = "root";
-    private $password = "lothric90";
+    private $password = "";
     private $dbname = "dbDansCoffeeShop";
     public $db_conn;
 
